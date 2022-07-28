@@ -1,4 +1,4 @@
 .idea
-.text
-.pyc
-.pyo
+*.text
+*.pyc
+*.pyo
